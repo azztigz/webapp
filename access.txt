@@ -1,0 +1,13 @@
+Keep this login information for your records:
+Client ID: 1694214
+Login email: trig3ar@gmx.com
+
+FTP
+azztigz.co.nf
+1694214_app
+webapp12345
+
+DB
+fdb7.biz.nf
+1694214_app
+webapp12345
